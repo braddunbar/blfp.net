@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <section>
+    <article>
+      <h1><a href='{{ post.url }}'>{{ post.title }}</a></h1>
+      <p>
+        <em class='muted'>posted on <date>{{ post.date | date: "%B %d %Y" }}</date> by {{ post.author }}</em>
+      </p>
+      {{ post.content }}
+    </article>
+  </section>
+{% endfor %}
