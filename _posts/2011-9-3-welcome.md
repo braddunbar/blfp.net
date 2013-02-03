@@ -8,4 +8,4 @@ BL Family Practice would like to take this occasion to welcome you and your fami
 
 Everyone at B-L Family Practice operates as a team member. We have all been trained as professionals, and we take pride in our capabilities. Be assured that our entire staff is committed to serving you and your family to the best of our abilities. We sincerely appreciate the opportunity of serving you, and hope that throughout the coming years we will be able to provide you and your family with compassionate, cost effective, and complete medical care.
 
-If you have questions, concerns or a medical emergency please call us at (803)-532-8155. You can make an appointment during our office hours, or take advantage of the 24 hour coverage we provide.
+If you have questions, concerns or a medical emergency please call us at (803)-532-8155. You can make an appointment during our office hours, or take advantage of the 24 hour coverage we provide.  :)
