@@ -2,7 +2,6 @@
 title: Welcome
 author: brad
 layout: post
-published: false
 ---
 
 BL Family Practice would like to take this occasion to welcome you and your family to our practice. We appreciate the opportunity to provide you and your family with medical services. We hope your first visit here was pleasant. If you have any suggestions or problems, please feel free to share them with us. Often we can make changes better to serve you. Our goal is to provide the best possible care and keeping you and your family healthy and happy. This is done by providing comprehensive health history, assessment, planning, evaluation, education, and health maintenance.
