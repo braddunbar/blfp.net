@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## 24 Hour Pharmacies
