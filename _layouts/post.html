@@ -4,12 +4,16 @@ layout: default
 
 <section>
   <article>
+    {% if page.title %}
     <h1>
       <a href='{{ page.url }}'>{{ page.title }}</a>
     </h1>
+    {% endif %}
+    {% if page.date %}
     <p>
       <em class='muted'>posted on <date>{{ page.date | date: "%B %d %Y" }}</date> by {{ page.author }}</em>
     </p>
+    {% endif %}
     {{ page.content }}
   </article>
 </section>
