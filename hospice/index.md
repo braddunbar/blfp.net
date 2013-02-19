@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-## Hospice Nursing Resource Page
+## Hospice Nursing Resource
