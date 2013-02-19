@@ -39,7 +39,14 @@
         <div class='navbar-inner'>
           <ul class='nav'>
             <li><a href='/'>Home</a></li>
-            <li><a target='_blank' href='https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'>Patient Portal</a></li>
+            <li><a
+              target='_blank'
+              title='Patient Portal'
+              data-content='Securely access your health information.'
+              data-toggle='popover'
+              data-trigger='hover'
+              href='https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'>
+              Patient Portal</a></li>
             <li><a href='/practitioners'>Practitioners</a></li>
             <li class='dropdown'>
               <a href='#' role='button' class='dropdown-toggle' data-toggle='dropdown'>Staff</a>
@@ -54,7 +61,13 @@
               <a href='#' role='button' class='dropdown-toggle' data-toggle='dropdown'>Patients</a>
               <ul class='dropdown-menu' role='menu'>
                 <li><a href='/patients/info'>Info</a></li>
-                <li><a href='https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'>Portal</a></li>
+                <li><a
+                  title='Patient Portal'
+                  data-content='Securely access your health information.'
+                  data-toggle='popover'
+                  data-trigger='hover'
+                  href='https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'>
+                  Portal</a></li>
               </ul>
             </li>
             <li class='dropdown'>
@@ -106,5 +119,13 @@
   </div>
   <script src='/js/jquery.js'></script>
   <script src='/js/bootstrap.js'></script>
+  <script>
+    jQuery(function($) {
+      $('[data-toggle=popover]').popover({
+        animation: false,
+        delay: {show: 500, hide: 100}
+      });
+    });
+  </script>
 </body>
 </html>
