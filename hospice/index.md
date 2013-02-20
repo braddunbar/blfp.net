@@ -12,4 +12,4 @@ layout: default
 
 ## Resources
 
-[24 Hour Pharmacies](https://docs.google.com/document/d/1K-NeCK2wYueBNubGO1pvgeabH-xzvX7lNvUimBl9mK8/pub)
+[24 Hour Pharmacies](/pharmacies)
