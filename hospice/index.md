@@ -13,3 +13,5 @@ layout: default
 ## Resources
 
 [24 Hour Pharmacies](/pharmacies)
+
+[Principle of Double Effect](https://docs.google.com/document/d/1II9mj1ADS1raSmuyMlVeYLsjHuuINl1TromQ-FYYWrw/pub)
