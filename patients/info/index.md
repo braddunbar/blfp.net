@@ -9,3 +9,5 @@ layout: default
 [Nuclear Stress Testing](https://docs.google.com/document/d/1Bm_KEwmOd7MEeSxjbjMb2s8ZbkgTtmfu9hAyBVNH97U/pub)
 
 [Fever](https://docs.google.com/document/d/1VgO1zCbJjiDrP67pcSzvv2Ey3Zp6pckXS1WZdlGc-_E/pub)
+
+[GYN Exam](https://docs.google.com/document/d/1j-fpC4a8gVhWnb0WJlhQ9SBAOMYvmGj98lTgUiP-su8/pub)
