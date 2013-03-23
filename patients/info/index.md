@@ -11,3 +11,5 @@ layout: default
 [Fever](https://docs.google.com/document/d/1VgO1zCbJjiDrP67pcSzvv2Ey3Zp6pckXS1WZdlGc-_E/pub)
 
 [GYN Exam](https://docs.google.com/document/d/1j-fpC4a8gVhWnb0WJlhQ9SBAOMYvmGj98lTgUiP-su8/pub)
+
+[EGD](https://docs.google.com/document/d/1s42cjCi_zygILT2xOawrpDplFs0_hWO0sAgDbhkl89c/pub)
