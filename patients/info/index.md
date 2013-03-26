@@ -13,3 +13,6 @@ layout: default
 [GYN Exam]()
 
 [EGD](https://docs.google.com/document/d/1s42cjCi_zygILT2xOawrpDplFs0_hWO0sAgDbhkl89c/pub)
+
+[Diarrhea](https://docs.google.com/document/d/1MoR5KF2KtsBYwjdK1NMhC92VyrTNotLRdRFXRHbbTDs/pub)
+
