@@ -16,3 +16,4 @@ layout: default
 
 [Diarrhea](https://docs.google.com/document/d/1MoR5KF2KtsBYwjdK1NMhC92VyrTNotLRdRFXRHbbTDs/pub)
 
+[Suboxone Prior Authorization](https://docs.google.com/document/d/1yk8ZhNS7M9FheKjM-UB0DVeVM-Qyr6zWQVxbIQ3f35s/pub)
