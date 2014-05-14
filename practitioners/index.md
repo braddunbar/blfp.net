@@ -41,11 +41,11 @@ Mrs. Craig is a graduate of the University of Arizona. She received her Master o
 <section>
 <article>
 
-# Kimberly Dunbar, PA-C
+# Kimberly Cooney, PA-C
 
 <img class='img-rounded' title='Mrs. Cooney' src='/img/mrscooney.jpg'>
 
-Ms. Dunbar received a masters in Physician Assistant studies from South University of Savannah, GA in 2012.  She has long been interested in family practice as she has worked with us in the past as a nurse assistant.  She graduated from Batesburg-Leesville High School in 2004 and is a University of South Carolina alum.  She is the daughter of CP and Christy Dunbar.
+Mrs. Cooney received a masters in Physician Assistant studies from South University of Savannah, GA in 2012.  She has long been interested in family practice as she has worked with us in the past as a nurse assistant.  She graduated from Batesburg-Leesville High School in 2004 and is a University of South Carolina alum.  She is the daughter of CP and Christy Dunbar.
 
 </article>
 </section>
