@@ -2,16 +2,163 @@
 layout: default
 ---
 
-{% for post in site.posts %}
-  <section>
-    <article>
-      <h1>
-        <a href='{{ post.url }}'>{{ post.title }}</a>
-      </h1>
+<div class='container text-center logo'>
+  <img src='/img/logo.png'>
+</div>
+
+<div id='carousel' class='carousel slide' data-ride='carousel'>
+  <ol class='carousel-indicators'>
+    <li data-target='carousel' data-slide-to='0' class='active'></li>
+    <li data-target='carousel' data-slide-to='1'></li>
+    <li data-target='carousel' data-slide-to='2'></li>
+  </ol>
+  <div class='carousel-inner'>
+
+    <div class='item active'>
+      <img src='//placekitten.com/1500/500'>
+      <div class='container'>
+        <div class='carousel-caption'>
+          <h1>Kitties</h1>
+          <p>This is where the description goes.</p>
+          <p><a class='btn btn-lg btn-primary' href='#' role='button'>Learn more&hellip;</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class='item'>
+      <img src='//placekitten.com/1500/500'>
+      <div class='container'>
+        <div class='carousel-caption'>
+          <h1>Moar!</h1>
+          <p>This is where another description goes.</p>
+          <p><a class='btn btn-lg btn-primary' href='#' role='button'>Learn some&hellip;</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class='item'>
+      <img src='//placekitten.com/1000/500'>
+      <div class='container'>
+        <div class='carousel-caption'>
+          <h1>Even more!</h1>
+          <p>This is where the third description goes.</p>
+          <p><a class='btn btn-lg btn-primary' href='#' role='button'>Learn you a&hellip;</a></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <a class='left carousel-control' href='#carousel' data-slide='prev'>
+    <span class='glyphicon glyphicon-chevron-left'></span>
+  </a>
+  <a class='right carousel-control' href='#carousel' data-slide='next'>
+    <span class='glyphicon glyphicon-chevron-right'></span>
+  </a>
+</div>
+
+<div class='container'>
+
+  <a name='practitioners'></a>
+  <h1>Practitioners</h1>
+
+  <div class='row practitioner'>
+    <div class='col-lg-2'>
+      <img class='img-circle' src='/img/drdunbar-small.jpg'>
+    </div>
+    <div class='col-lg-8'>
+      <h3>
+        Dr. Dunbar
+        <small>MD, FAAFP</small>
+      </h3>
       <p>
-        <em class='muted'>posted on <date>{{ post.date | date: "%B %d %Y" }}</date> by {{ post.author }}</em>
+        Dr. Dunbar is a native of Spartanburg and a graduate of The University
+        of South Carolina. Dr. Dunbar received his doctorate of medicine at The
+        University of South Carolina School of Medicine and completed his
+        Family Practice Residency at Spartanburg Regional Hospital. He is a
+        board certified Family Practice Physician and has been in private
+        practice since 1986.
       </p>
-      {{ post.content }}
-    </article>
-  </section>
-{% endfor %}
+    </div>
+  </div>
+
+  <div class='row practitioner'>
+    <div class='col-lg-2'>
+      <img class='img-circle' src='/img/mrsdunbar-small.jpg'>
+    </div>
+    <div class='col-lg-8'>
+      <h3>
+        Mrs. Dunbar
+        <small>MS, FNP</small>
+      </h3>
+      <p>
+        Mrs. Dunbar is a graduate of The University of South Carolina. She
+        received her Master of Science in Nursing from The University of South
+        Carolina School of Nursing. She is board certified as a Family Nurse
+        Practitioner and has been in private practice since 1986.
+      </p>
+    </div>
+  </div>
+
+  <div class='row practitioner'>
+    <div class='col-lg-2'>
+      <img class='img-circle' src='/img/mrscraig-small.jpg'>
+    </div>
+    <div class='col-lg-8'>
+      <h3>
+        Mrs. Craig
+        <small>MN, FNP</small>
+      </h3>
+      <p>
+        Mrs. Craig is a graduate of the University of Arizona. She received her
+        Master of Nursing from The University of South Carolina School of
+        Nursing. She is board certified as a Family Nurse Practitioner and has
+        been in private practice since 1994.
+      </p>
+    </div>
+  </div>
+
+  <div class='row practitioner'>
+    <div class='col-lg-2'>
+      <img class='img-circle' src='/img/mrscooney-small.jpg'>
+    </div>
+    <div class='col-lg-8'>
+      <h3>
+        Mrs. Cooney
+        <small>PA-C</small>
+      </h3>
+      <p>
+        Mrs. Cooney received a masters in Physician Assistant studies from
+        South University of Savannah, GA in 2012.  She has long been interested
+        in family practice as she has worked with us in the past as a nurse
+        assistant.  She graduated from Batesburg-Leesville High School in 2004
+        and is a University of South Carolina alum.  She is the daughter of CP
+        and Christy Dunbar.
+      </p>
+    </div>
+  </div>
+
+  <div class='row practitioner'>
+    <div class='col-lg-2'>
+      <img class='img-circle' src='/img/mrsgentry-small.jpg'>
+    </div>
+    <div class='col-lg-8'>
+      <h3>
+        Mrs. Gentry
+        <small>PA-C</small>
+      </h3>
+      <p>
+        Nurse Practitioner Marisa Gentry is originally from Baltimore,
+        Maryland. She received a Bachelor’s degree in Nursing from the University of
+        South Carolina in 2010. She worked as a Registered Nurse at Providence Hospital
+        until June 2014. Marisa received a Master’s degree in Nursing from the
+        University of South Carolina in May 2014 and is board certified by the American
+        Nurses Credentialing Center as a Family Nurse Practitioner. She is interested
+        in caring for patients with a variety of healthcare needs and loves the
+        opportunity to educate patients. Marisa lives in Chapin with her husband. She
+        loves all activities that involve spending time with her family and friends,
+        especially traveling, cooking, and being outdoors.
+      </p>
+    </div>
+  </div>
+
+</div>
