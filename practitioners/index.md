@@ -49,3 +49,15 @@ Mrs. Cooney received a masters in Physician Assistant studies from South Univers
 
 </article>
 </section>
+
+<section>
+<article>
+
+# Marisa Gentry
+
+<img class='img-rounded' title='Mrs. Gentry' src='/img/mrsgentry.jpg'>
+
+Nurse Practitioner Marisa Gentry is originally from Baltimore, Maryland. She received a Bachelor’s degree in Nursing from the University of South Carolina in 2010. She worked as a Registered Nurse at Providence Hospital until June 2014. Marisa received a Master’s degree in Nursing from the University of South Carolina in May 2014 and is board certified by the American Nurses Credentialing Center as a Family Nurse Practitioner. She is interested in caring for patients with a variety of healthcare needs and loves the opportunity to educate patients. Marisa lives in Chapin with her husband. She loves all activities that involve spending time with her family and friends, especially traveling, cooking, and being outdoors.
+
+</article>
+</section>
