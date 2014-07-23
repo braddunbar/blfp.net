@@ -6,6 +6,11 @@ article p {
   font-size: 18px;
 }
 
+article img {
+  max-width: 100%;
+  margin: 20px;
+}
+
 section {
   position: relative;
   border-bottom: solid 2px #ddd;
@@ -63,5 +68,11 @@ footer {
 }
 
 .map-img {
-  margin: 20px;
+  margin-right: 20px;
+}
+
+.jumbotron {
+  background-image: url('http://upload.wikimedia.org/wikipedia/commons/6/61/Doctor_and_couple_talking_%281%29.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
 }
