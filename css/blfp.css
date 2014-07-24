@@ -38,7 +38,7 @@ section:before {
   height: 500px;
 }
 
-.logo {
+.logo, .recent-posts, .portal, .practitioners {
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -57,7 +57,7 @@ a[name]{
   width: 100%;
 }
 
-footer {
+.portal, footer {
   padding: 20px;
   color: #777;
   background-color: #222;

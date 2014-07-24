@@ -37,7 +37,7 @@
         </form>
         <ul class='nav navbar-nav'>
           <li>
-            <a href='https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'>Patient Portal</a>
+            <a href='{{ site.portal_url }}'>Patient Portal</a>
           </li>
           <li>
             <a href='#contact'>Contact</a>
@@ -72,31 +72,41 @@
     <a name='contact'></a>
     <div class='container'>
       <div class='row'>
-        <div class='col-lg-6'>
-          <h1>
+        <div class='col-lg-4'>
+          <h3>
             <span class='glyphicon glyphicon-phone-alt'></span>
+            Contact
+          </h3>
+          <h4>
             (803) 532-8155
-          </h1>
-          <table class='hours'>
-            <tr><td>Monday-Friday</td><td>8:00am-5:30pm</td></tr>
-            <tr><td>Saturday</td><td>8:00am-5:30pm</td></tr>
-            <tr><td>Sunday</td><td>Closed</td></tr>
-          </table>
+          </h4>
           <h4>
             <small>FAX</small>
             (803) 532-9685
           </h4>
         </div>
-        <div class='col-lg-6'>
-          <a class='map-img pull-left' target='_blank' href='https://www.google.com/maps/place/B-L+Family+Practice/@33.919689,-81.503076,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xab1b2d27a2605bce'>
+        <div class='col-lg-4'>
+          <h3>
+            <span class='glyphicon glyphicon-time'></span>
+            Hours
+          </h3>
+          <table class='hours'>
+            <tr><td>Monday-Friday</td><td>8:00am-5:30pm</td></tr>
+            <tr><td>Saturday</td><td>8:00am-5:30pm</td></tr>
+            <tr><td>Sunday</td><td>Closed</td></tr>
+          </table>
+        </div>
+        <div class='col-lg-4'>
+          <a class='map-img pull-right' target='_blank' href='https://www.google.com/maps/place/B-L+Family+Practice/@33.919689,-81.503076,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xab1b2d27a2605bce'>
             <img class='img-rounded' src='//maps.googleapis.com/maps/api/staticmap?center=608+E+Columbia+Ave,Leesville+SC&size=150x150&key={{ site.apikey }}'>
           </a>
           <h3>
-            B-L Family Practice
             <span class='glyphicon glyphicon-map-marker'></span>
+            Location
           </h3>
           <p>
             <address>
+              B-L Family Practice<br>
               608 E Columbia Ave<br>
               Leesville SC, 29070
             </address>
