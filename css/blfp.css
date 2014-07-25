@@ -71,8 +71,8 @@ a[name]{
   margin-right: 20px;
 }
 
-.jumbotron {
-  background-image: url('/img/talking.jpg');
+.spotlight {
+  background-image: url('/img/talking-cropped.jpg');
   background-repeat: no-repeat;
   background-position: center center;
 }
