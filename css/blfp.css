@@ -29,17 +29,6 @@ section:before {
   font-size: 28px;
 }
 
-.carousel {
-  height: 500px;
-  margin-bottom: 60px;
-  overflow: hidden;
-}
-
-.carousel-inner > .item > img {
-  margin: 0 auto;
-  height: 500px;
-}
-
 .logo, .recent-posts, .portal, .practitioners {
   margin-top: 30px;
   margin-bottom: 30px;
