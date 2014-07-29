@@ -1,5 +1,5 @@
 ---
-title: Pain Care in Primary
+title: Pain Care for Primary Care
 author: brad
 layout: post
 ---
