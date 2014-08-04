@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <section class='container'>
+    <article>
+      <h1>
+        <a href='{{ post.url }}'>{{ post.title }}</a>
+      </h1>
+      <small class='text-muted'>
+        <date>{{ post.date | date: "%B %d %Y" }}</date> by {{ post.author }}
+      </small>
+      {{ post.content }}
+    </article>
+  </section>
+{% endfor %}

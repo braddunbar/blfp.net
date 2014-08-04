@@ -1,2 +1,5 @@
 ---
 markdown: redcarpet
+permalink: /:categories/:year/:month/:day/:title
+apikey: AIzaSyAzuFFZQFL8uQCUS2Dx9MJYDq1t0WOD3js
+portal_url: 'https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=4442&muuid=4727'

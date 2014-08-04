@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section>
+<section class='container'>
   <article>
     {% if page.title %}
     <h1>
@@ -10,10 +10,10 @@ layout: default
     </h1>
     {% endif %}
     {% if page.date %}
-    <p>
-      <em class='muted'>posted on <date>{{ page.date | date: "%B %d %Y" }}</date> by {{ page.author }}</em>
-    </p>
+    <small class='text-muted'>
+      <date>{{ page.date | date: "%B %d %Y" }}</date> by {{ page.author }}
+    </small>
     {% endif %}
-    {{ page.content }}
+    {{ page.content | markdownify }}
   </article>
 </section>
